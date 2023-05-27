@@ -8,7 +8,7 @@
   margin-left: 18%;   
   padding: 40px;
   border-radius: 10px;
-  background-color: gray;
+  background-color: whitesmoke;
 }
  
 
@@ -19,16 +19,15 @@ li{
    padding: 10px;
   width: 70%;
   margin-left: 12%;
-  border: 3px solid white;
+  border: 3px solid gray;
   margin-top: 10px;
   border-radius: 20px;
-  color: white;
+  color: gray;
 }
 li:hover{
   cursor: pointer;
-  background: -webkit-linear-gradient(#089a4f, #c8570c);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+   background-color: antiquewhite;
+   color: black;
 }
 .final-result{
   background-color: whitesmoke;
